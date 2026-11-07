@@ -1,6 +1,6 @@
-# 家計簿CSV分析
+# Nokori
 
-iOS アプリ「家計簿CSV分析」の文書です。
+iOS アプリ「Nokori」の文書です。
 
 - [プライバシーポリシー](privacy.html)
 - [利用規約](terms.html)
