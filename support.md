@@ -2,7 +2,7 @@
 
 ## 問い合わせ
 
-問い合わせは電子メールで受け付けます。アドレスは準備中です。
+問い合わせは電子メールで受け付けます。宛先は [nokori.app.support@gmail.com](mailto:nokori.app.support@gmail.com) です。
 
 問い合わせの際に受け取った情報の扱いは、[プライバシーポリシー](privacy.html)の「問い合わせの情報」に定めています。
 
